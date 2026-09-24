@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/cubeshipd/cubeship-openhands-template/compare/v1.1.0...v1.2.0) (2026-09-24)
+
+
+### Features
+
+* update ghcr.io/openhands/agent-canvas docker tag to v1.23.0 ([#10](https://github.com/cubeshipd/cubeship-openhands-template/issues/10)) ([8331459](https://github.com/cubeshipd/cubeship-openhands-template/commit/833145941c8e70f6c001dd2c72546f23053a2a78))
+
 ## [1.1.0](https://github.com/cubeshipd/cubeship-openhands-template/compare/v1.0.2...v1.1.0) (2026-09-22)
 
 
